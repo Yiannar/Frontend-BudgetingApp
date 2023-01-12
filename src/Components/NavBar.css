@@ -1,0 +1,25 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.header {
+
+    text-align: center;
+    text-decoration: wavy;
+    font-size: 75px;
+    font-weight: 300;
+    background-color: grey;
+    margin: 0 auto;
+    width: 1100px;
+}
+
+
+.button{
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 10px;
+    font-size: medium;
+    float: left;
+}
+
